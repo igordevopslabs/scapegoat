@@ -9,7 +9,7 @@ k8s-helm-charts:
 
   container:
     image:
-      repository: "igoritosousa22/scapegoat"
+      repository: "docker.io/igoritosousa22/scapegoat"
       pullPolicy: IfNotPresent
       tag: "v0"
     port: "3000"
