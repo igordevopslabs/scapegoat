@@ -1,4 +1,4 @@
-k8s-helm-charts:
+api-chats:
   createDeployment: true
 
   createService: true
