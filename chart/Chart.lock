@@ -1,6 +1,0 @@
-dependencies:
-- name: k8s-helm-charts
-  repository: oci://507438040998.dkr.ecr.us-east-1.amazonaws.com
-  version: 0.0.1
-digest: sha256:63b217a390a914b38a16f31d62b43d52506b0574e140c22d47525a5448bd9cbb
-generated: "2023-09-28T16:28:25.498206035-03:00"
