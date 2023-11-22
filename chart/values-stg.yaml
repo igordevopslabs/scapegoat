@@ -19,3 +19,7 @@ k8s-helm-charts:
   service:
     type: "ClusterIP"
     port: "80"
+
+platform-kubearmor-policies-chart:
+  matchLabels:
+    app: scapegoat
