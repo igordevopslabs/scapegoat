@@ -1,4 +1,4 @@
-api-chats:
+api-charts:
   createDeployment: true
 
   createService: true
