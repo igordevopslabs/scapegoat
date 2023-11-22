@@ -2,12 +2,12 @@ apiVersion: v2
 name: scapegoat
 description: A Helm chart for Kubernetes
 type: application
-version: 0.0.6
-appVersion: "0.6.0"
+version: 0.0.7
+appVersion: "0.7.0"
 dependencies:
 - name: api-charts
-  version: 0.0.6
+  version: 0.0.7
   repository: oci://507438040998.dkr.ecr.us-east-1.amazonaws.com
 - name: platform-kubearmor-policies-chart
-  version: 0.0.2
+  version: 0.0.3
   repository: oci://507438040998.dkr.ecr.us-east-1.amazonaws.com
