@@ -1,6 +1,6 @@
 api-charts:
-  pciScope: true
-  GoPolicy: true
+  pciScope: false
+  GoPolicy: false
 
   createDeployment: true
 
