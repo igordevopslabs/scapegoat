@@ -6,8 +6,5 @@ version: 0.0.9
 appVersion: "0.9.0"
 dependencies:
 - name: api-charts
-  version: 0.0.9
-  repository: oci://507438040998.dkr.ecr.us-east-1.amazonaws.com
-- name: platform-kubearmor-policies-chart
-  version: 0.0.7
+  version: 0.1.0
   repository: oci://507438040998.dkr.ecr.us-east-1.amazonaws.com
